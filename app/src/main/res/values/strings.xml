@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FLASE</string>
+    <string name="next_button">NEXT</string>
+    <string name="prev_button">PREV</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incoorect!</string>
+    <string name="question_oceans">抗生素能治疗感冒</string>
+    <string name="question_mideast">人不惑之年是指50岁</string>
+    <string name="question_africa">跑得最快的鸟是鸵鸟</string>
+    <string name="question_americas">鱼类也有耳朵</string>
+    <string name="question_asia">普洱茶属于红茶。</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">SHOW ANSWER</string>
+    <string name="cheat_button">CHEAT!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+</resources>
